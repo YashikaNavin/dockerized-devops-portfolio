@@ -4,6 +4,10 @@
 
 A static HTML portfolio website served by Nginx inside a Docker container. This hands-on project demonstrates Docker image building, container networking, non-root execution, Linux capability restrictions, and read-only filesystem hardening.
 
+## Website Preview
+
+![Dockerized DevOps portfolio website](docs/website-screenshot.png)
+
 ## Technologies Used
 
 - Linux
