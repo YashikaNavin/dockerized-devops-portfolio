@@ -1,0 +1,13 @@
+# Environment and secret files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
